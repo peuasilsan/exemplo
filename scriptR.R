@@ -1,6 +1,8 @@
 ##Versão 1
-#Versão
+#Versão 3
 library(tidyverse)
 jon()
 rename()
 recode()
+table()
+rename()
